@@ -1,3 +1,2 @@
 - SumGNN: multi-typed drug interaction prediction via efficient knowlegde graph summarization (Bioinfomatics 2021)
   - [Paper Link](https://academic.oup.com/bioinformatics/article/37/18/2988/6189090) / [Paper Review](https://lying-sumac-e44.notion.site/drug-drug-interaction-Paper-review-5ea3c893913d4fef8be6683d84e54a8f)
-  - 
